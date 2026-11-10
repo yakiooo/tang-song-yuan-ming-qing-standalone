@@ -4,9 +4,9 @@
 
 ## 在线体验
 
-https://yakiooo.github.io/tang-song-yuan-ming-qing-standalone/
+**https://yakiooo.github.io/tang-song-yuan-ming-qing-standalone/**
 
-（部署后替换为实际 Pages 地址）
+（GitHub Pages 部署；备用镜像：`https://cdn.jsdelivr.net/gh/yakiooo/tang-song-yuan-ming-qing-standalone@main/index.html`）
 
 ## 功能
 
